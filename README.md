@@ -1,4 +1,4 @@
-# contracts
+# Audited Smart Contracts
 
 Cyble Network, is Reliable, Fast, Secure, and Cost-Effective!
 
